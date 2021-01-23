@@ -1,0 +1,30 @@
+{
+  "name": "tehnologii-web",
+  "version": "1.0.0",
+  "description": "A Node.JS Restful API with Sequelize & PostgreSQL ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.JS",
+    "Express.JS",
+    "Vue.JS",
+    "Sequelize",
+    "PostgreSQL"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "livereload": "^0.9.1",
+    "pg": "^8.5.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
